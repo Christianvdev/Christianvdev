@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Christianvdev
-- 👀 I’m interested in Computer Science and Mechanics
-- 🌱 I’m currently learning React
 - 📫 How to reach me (ChristianTech77@gmail.com)
 - 😄 Pronouns: He/Him
 
